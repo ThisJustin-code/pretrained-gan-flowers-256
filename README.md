@@ -17,6 +17,7 @@ Links:
 
 * [Progression video of the training process on this data set](https://www.youtube.com/watch?v=a3q1ha45CkA)
 * [Latent vector walk video #1](https://youtu.be/6bVgUGopSB4s)
+* [Latent vector walk video #2](https://youtu.be/MUeTSqjseI8)
 * [Download link to the original flower dataset used for training](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/102flowers.tgz)
 * [Download link the .pkl file](https://github.com/ThisJustin-code/pretrained-gan-flowers-256/releases/download/v1.0/flowers-256-trained.pkl)
 
